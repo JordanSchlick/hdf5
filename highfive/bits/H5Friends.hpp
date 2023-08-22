@@ -6,5 +6,7 @@
 // Known to fail: Toolset 141.
 // See `CMakeLists.txt` for more information.
 #define HIGHFIVE_HAS_FRIEND_DECLARATIONS 1
+#else
+#define HIGHFIVE_HAS_FRIEND_DECLARATIONS 0
 #endif
 #endif

@@ -8,7 +8,7 @@
  */
 #pragma once
 
-#include "../hdf5/H5Ppublic.h"
+#include "../../hdf5/H5Ppublic.h"
 
 namespace HighFive {
 

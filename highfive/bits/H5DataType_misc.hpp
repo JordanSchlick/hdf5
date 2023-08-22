@@ -17,8 +17,8 @@
 #endif
 #endif
 
-#include "../hdf5/H5Ppublic.h"
-#include "../hdf5/H5Tpublic.h"
+#include "../../hdf5/H5Ppublic.h"
+#include "../../hdf5/H5Tpublic.h"
 
 #ifdef H5_USE_HALF_FLOAT
 #include <half.hpp>

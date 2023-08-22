@@ -14,8 +14,8 @@
 #include <sstream>
 #include <string>
 
-#include "../hdf5/H5Apublic.h"
-#include "../hdf5/H5Ppublic.h"
+#include "../../hdf5/H5Apublic.h"
+#include "../../hdf5/H5Ppublic.h"
 
 #include "../H5DataSpace.hpp"
 #include "H5Converter_misc.hpp"
